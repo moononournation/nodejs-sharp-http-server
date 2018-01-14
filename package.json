@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-sharp-http-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.18.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moononournation/nodejs-sharp-http-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moononournation/nodejs-sharp-http-server/issues"
+  },
+  "homepage": "https://github.com/moononournation/nodejs-sharp-http-server#readme",
+  "description": ""
+}
