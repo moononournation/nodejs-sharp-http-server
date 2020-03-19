@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sharp": "^0.22.1"
+    "sharp": "^0.25.1"
   },
   "devDependencies": {},
   "repository": {

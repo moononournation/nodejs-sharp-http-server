@@ -13,7 +13,6 @@ http.createServer(function (req, res) {
   if ((last_part) && (last_part > '')) { // return resized image
     sharp(photoFolder + last_part)
     .resize(320, 240)
-    .crop()
     .jpeg()
     .toBuffer(function (err, data, info) {
       res.writeHead(200, {'Content-Type': 'image/jpeg'});
