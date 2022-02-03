@@ -1,4 +1,4 @@
-.vscode
+.*
 node_modules
 photo/*.JPG
 photo/*.jpg
