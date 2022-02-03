@@ -8,9 +8,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sharp": "^0.25.1"
+    "sharp": "^0.25.1",
+    "simple-get": "^4.0.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/moononournation/nodejs-sharp-http-server.git"
